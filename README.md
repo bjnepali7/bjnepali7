@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  Mobile Application Development with Flutter and Backend Development using Firebase ,Spring Boot(for website development)<br><br>👯 I Flutter Apps, Java Spring Boot Projects, and AI/ML-based Applications<br><br>🤝  Advanced Mobile Architecture, Scalable Backend Systems, and Machine Learning Model Deployment<br><br>🌱 I’m currently learning Advanced Flutter Development, System Design, and Deep Learning<br><br>⚡ Fun fact: I enjoy turning ideas into mobile solutions and intelligent applications 🚀
+🔭  Mobile Application Development with Flutter and Backend Development using Firebase ,Spring Boot(for website development)<br><br>👯  Flutter Apps, Java Spring Boot Projects, and AI/ML-based Applications<br><br>🤝  Advanced Mobile Architecture, Scalable Backend Systems, and Machine Learning Model Deployment<br><br>🌱 I’m currently learning Advanced Flutter Development, System Design, and Deep Learning<br><br>⚡ Fun fact: I enjoy turning ideas into mobile solutions and intelligent applications 🚀
 
 
 ## 🌐 Socials:
